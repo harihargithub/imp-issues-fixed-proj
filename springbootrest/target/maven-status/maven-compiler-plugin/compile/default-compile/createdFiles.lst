@@ -1,0 +1,5 @@
+com\gl\springbootrest\controller\UserController.class
+com\gl\springbootrest\model\User.class
+com\gl\springbootrest\repository\UserRepository.class
+com\gl\springbootrest\service\UserService.class
+com\gl\springbootrest\SpringbootrestApplication.class
